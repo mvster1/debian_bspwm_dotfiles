@@ -1,0 +1,4 @@
+2026/02/21-13:38:59.365 3c11 Creating DB /home/wrs/.config/discord/Local Storage/leveldb since it was missing.
+2026/02/21-13:38:59.386 3c11 Reusing MANIFEST /home/wrs/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/02/21-13:40:56.739 3c11 Level-0 table #5: started
+2026/02/21-13:40:56.806 3c11 Level-0 table #5: 4406662 bytes OK

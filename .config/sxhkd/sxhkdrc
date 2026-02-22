@@ -1,0 +1,79 @@
+#!/usr/bin/sh
+super + F2
+    xrandr --output Virtual1 --mode 1600x900 --rate 180 && bspc wm -r
+super + F1
+    xrandr --output Virtual1 --mode 1920x1080 --rate 180 && bspc wm -r
+super + F3
+    xrandr --output Virtual1 --mode 1280x720 --rate 180 && bspc wm -r
+
+super + e
+    pcmanfm
+control + alt + t
+	alacritty
+alt + e
+    rofi -show drun -font "SF Pro Display 11"
+alt + F2
+    flameshot gui
+super + @v
+    copyq toggle
+
+# reload sxhkd
+control + alt + Escape
+	pkill -USR1 -x sxhkd
+
+control + alt + {q,r}
+	bspc {quit,wm -r}
+alt + q
+	bspc node -c
+alt + u
+	bspc node -s next.local
+super + alt + k
+	bspc node -k
+super + 1
+	bspc desktop -f ^1
+super + 2
+	bspc desktop -f ^2
+super + 3
+	bspc desktop -f ^3
+super + 4
+	bspc desktop -f ^4
+super + 5
+	bspc desktop -f ^5
+super + 6
+	bspc desktop -f ^6
+super + 7
+	bspc desktop -f ^7
+super + 8 
+	bspc desktop -f ^8
+super + 9
+	bspc desktop -f ^9
+super + 0
+	bspc desktop -f ^10
+alt + k
+	bspc desktop -f next
+alt + j
+	bspc desktop -f prev
+alt + z
+	bspc desktop -l next
+alt + shift + k
+	bspc node -d next
+alt + shift + j
+	bspc node -d prev
+alt + {t,shift + t,s,f}
+	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+alt + Tab
+	bspc node -f next.local.window
+super + {h,j,k,l}
+	bspc node -v {-20 0,0 20,0 -20,20 0}
+super + shift + {h,j,k,l}
+  bspc node -z {left -20 0 || bspc node -z right -20 0, \
+                bottom 0 20 || bspc node -z top 0 20,\
+                top 0 -20 || bspc node -z bottom 0 -20,\
+                right 20 0 || bspc node -z left 20 0}
+   
+super + shift + minus
+    /home/wrs/bag/scripts/vol5 down
+super + shift + equal
+    /home/wrs/bag/scripts/vol5 up
+super + shift + 0
+    /home/wrs/bag/scripts/vol5 toggle

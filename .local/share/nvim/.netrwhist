@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/wrs/.icons/default'
+let g:netrw_dirhist_4='/home/wrs/bag/scripts'
+let g:netrw_dirhist_3='/home/wrs/.config/bspwm'
+let g:netrw_dirhist_2='/home/wrs/.config/kitty'
+let g:netrw_dirhist_1='/home/wrs/.config/sxhkd'

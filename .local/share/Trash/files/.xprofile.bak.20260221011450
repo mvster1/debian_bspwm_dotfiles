@@ -1,0 +1,6 @@
+export XCURSOR_THEME=macOS
+export XCURSOR_SIZE=20
+
+# Cursor theme (managed by cursor-theme-set.sh)
+export XCURSOR_THEME="macOS"
+export XCURSOR_SIZE=20

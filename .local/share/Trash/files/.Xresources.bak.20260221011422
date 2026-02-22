@@ -1,0 +1,13 @@
+Xcursor.theme: macOS
+Xcursor.size: 20
+
+! ----- Xft Rendering -----
+Xft.dpi: 96
+Xft.antialias: 1
+Xft.hinting: 1
+Xft.hintstyle: hintfull
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+! ----- UI Font -----
+Xft.font: SF Pro Display:size=11

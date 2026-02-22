@@ -1,0 +1,182 @@
+CopyQ ERROR [2026-02-21 03:19:22.376] <monitorClipboard-6917>: Cannot connect to server! Start CopyQ server first.
+CopyQ Warning [2026-02-21 04:34:15.010] <Server-997>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ ERROR [2026-02-21 04:34:15.018] <monitorClipboard-1028>: Connection lost!
+CopyQ Warning [2026-02-21 04:37:58.868] <Server-1162>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ ERROR [2026-02-21 04:37:58.879] <monitorClipboard-1171>: Connection lost!
+CopyQ ERROR [2026-02-21 04:40:14.720] <Client-2272>: Cannot connect to server! Start CopyQ server first.
+CopyQ ERROR [2026-02-21 04:40:46.859] <Client-2366>: Cannot connect to server! Start CopyQ server first.
+CopyQ ERROR [2026-02-21 04:40:52.072] <Client-2373>: Cannot connect to server! Start CopyQ server first.
+CopyQ ERROR [2026-02-21 04:40:59.904] <monitorClipboard-2429>: Cannot connect to server! Start CopyQ server first.
+CopyQ Warning [2026-02-21 04:43:33.470] <Server-2570>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ ERROR [2026-02-21 04:43:33.482] <provideClipboard-2621>: Connection lost!
+CopyQ ERROR [2026-02-21 04:43:33.483] <monitorClipboard-2666>: Connection lost!
+CopyQ ERROR [2026-02-21 04:43:35.801] <Client-2714>: Cannot connect to server! Start CopyQ server first.
+CopyQ Warning [2026-02-21 04:47:21.627] <Server-3127>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:47:26.407] <Server-3182>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:47:26.869] <Server-3225>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:50:30.817] <Server-3717>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:50:35.183] <Server-3762>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:50:57.073] <Server-3807>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:51:12.122] <Server-3853>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:51:20.169] <Server-3896>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:53:52.002] <Server-4473>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:54:09.744] <Server-4531>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:54:22.608] <Server-4587>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:54:44.142] <Server-4640>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:54:46.099] <Server-4684>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:54:46.602] <Server-4728>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 04:58:56.917] <monitorClipboard-2767>: ELAPSED 5002 ms accessing [data:TIMESTAMP]
+CopyQ Warning [2026-02-21 04:58:56.920] <monitorClipboard-2767>: Aborting clipboard cloning: Data access took too long
+CopyQ Warning [2026-02-21 05:01:01.488] <Server-6923>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:01:58.826] <Server-7012>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:01:59.820] <Server-7057>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:02:03.100] <Server-7101>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:02:32.249] <Server-7147>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:02:35.745] <Server-7191>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:02:51.571] <Server-7236>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:03:03.786] <Server-7281>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:03:31.457] <Server-7363>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:03:42.305] <Server-7419>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:04:12.680] <Server-7487>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:04:58.570] <Server-7552>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:05:07.859] <Server-7611>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:05:11.446] <Server-7661>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:05:15.754] <Server-7706>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:06:46.525] <Server-8551>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:07:09.212] <Server-8606>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:07:12.919] <Server-8658>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:07:42.902] <Server-8716>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:07:44.287] <Server-8756>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:07:44.463] <Server-8795>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:07:46.398] <Server-8836>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:09:55.427] <Server-8937>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:09:56.070] <Server-8992>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 05:15:12.816] <Server-2737>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ Warning<Server-2737>: [default] QtWarning: QThreadStorage: Thread 0x55ab16160a30 exited after QThreadStorage 4 destroyed
+CopyQ Warning [2026-02-21 05:15:12.817] <monitorClipboard-2767>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ Warning [2026-02-21 12:42:11.717] <Server-967>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ Warning [2026-02-21 13:12:00.859] <Server-8711>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:12:12.227] <Server-8805>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:12:22.980] <Server-8875>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:12:23.805] <Server-8919>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:20:25.511] <Server-10790>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:20:45.995] <Server-10848>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:21:15.291] <Server-10904>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:21:27.652] <Server-10959>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:22:03.137] <Server-11013>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:22:10.911] <Server-11059>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:22:30.469] <Server-11111>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:22:47.123] <Server-11165>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:23:08.807] <Server-11219>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:23:15.224] <Server-11266>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:23:26.250] <Server-11314>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:23:31.717] <Server-11358>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:23:52.329] <Server-11407>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:24:06.049] <Server-11457>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:24:12.598] <Server-11504>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:24:29.568] <Server-11552>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:24:40.536] <Server-11598>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:24:51.583] <Server-11655>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:25:07.271] <Server-11706>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:25:38.034] <Server-11808>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:26:03.694] <Server-11858>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:26:14.816] <Server-11907>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:26:46.757] <Server-11960>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:26:56.274] <Server-12015>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:27:19.309] <Server-12069>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:27:37.621] <Server-12124>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:28:03.358] <Server-12179>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:28:20.645] <Server-12233>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:28:39.837] <Server-12281>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:28:53.966] <Server-12327>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:29:21.360] <Server-12391>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:29:25.384] <Server-12439>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:29:30.950] <Server-12484>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:29:36.971] <Server-12529>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:29:41.278] <Server-12573>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:29:57.970] <Server-12622>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:31:22.020] <Server-13270>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:31:26.889] <Server-13316>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:31:35.584] <Server-13366>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:31:40.399] <Server-13411>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:31:45.838] <Server-13483>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:31:49.392] <Server-13534>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:31:52.760] <Server-13579>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:34:04.152] <Server-13753>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:34:56.378] <Server-13824>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:35:24.734] <Server-13874>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:35:39.023] <Server-13923>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:35:43.452] <Server-13969>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:36:04.705] <Server-14019>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:36:09.263] <Server-14072>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:36:12.479] <Server-14119>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:36:14.942] <Server-14165>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:36:35.129] <Server-14220>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:36:53.551] <Server-14268>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 13:37:02.658] <Server-14316>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 14:30:06.456] <Server-20638>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 14:30:26.991] <Server-20700>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 14:39:44.024] <Server-21818>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 14:40:26.141] <Server-21929>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 14:52:52.347] <Server-26465>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 19:01:18.638] <Server-36354>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 19:01:32.465] <Server-36420>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 19:05:06.959] <Server-37143>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 19:13:23.506] <Server-39206>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 19:37:05.898] <Server-2268>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ Warning [2026-02-21 19:50:09.383] <Server-7015>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 19:50:14.835] <Server-7324>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 20:11:32.418] <Server-1556>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ Warning [2026-02-21 20:13:05.297] <Server-2278>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:25:59.022] <Server-4058>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:31:32.901] <Server-4882>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:52:28.913] <Server-5955>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:52:57.579] <Server-6040>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:52:59.141] <Server-6089>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:22.031] <Server-6156>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:25.086] <Server-6269>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:25.217] <Server-6272>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:25.256] <Server-6326>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:25.263] <Server-6328>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:25.300] <Server-6351>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:26.737] <Server-6416>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:29.585] <Server-6464>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:50.573] <Server-6525>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:52.843] <Server-6598>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:52.876] <Server-6593>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:53:54.437] <Server-6659>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:54:14.924] <Server-7114>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:54:20.114] <Server-7166>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:54:31.076] <Server-7456>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:54:34.053] <Server-7509>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:55:14.592] <Server-7988>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:55:17.186] <Server-8035>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:58:34.222] <Server-8364>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 21:58:36.788] <Server-8422>: CopyQ server is already running.
+CopyQ Warning [2026-02-21 22:01:27.032] <Server-9241>: CopyQ server is already running.
+CopyQ ERROR [2026-02-21 22:01:34.943] <Client-9260>: Cannot connect to server! Start CopyQ server first.
+CopyQ ERROR [2026-02-21 22:01:37.840] <Client-9264>: Cannot connect to server! Start CopyQ server first.
+CopyQ Warning [2026-02-21 22:01:44.990] <Server-9282>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ ERROR [2026-02-21 22:02:46.996] <monitorClipboard-9571>: Cannot connect to server! Start CopyQ server first.
+CopyQ Warning [2026-02-21 22:02:51.433] <Server-9591>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ ERROR [2026-02-21 22:02:58.323] <monitorClipboard-9617>: Cannot connect to server! Start CopyQ server first.
+CopyQ Warning [2026-02-21 22:10:25.490] <Server-9774>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ Warning [2026-02-21 23:26:25.212] <monitorClipboard-9795>: ELAPSED 5001 ms accessing [data:TIMESTAMP]
+CopyQ Warning [2026-02-21 23:26:25.215] <monitorClipboard-9795>: Aborting clipboard cloning: Data access took too long
+CopyQ Warning [2026-02-21 23:28:34.606] <Server-1698>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ Warning [2026-02-21 23:33:29.271] <Server-1698>: [default] QtWarning: The X11 connection broke: I/O error (code 1)
+CopyQ Warning [2026-02-21 23:33:29.271] <monitorClipboard-1734>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ Warning [2026-02-21 23:33:37.224] <Server-3910>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ Warning [2026-02-21 23:34:11.244] <monitorClipboard-3919>: Aborting clipboard cloning: Clipboard changed again
+CopyQ Warning [2026-02-21 23:34:32.594] <monitorClipboard-3919>: ELAPSED 5009 ms accessing [data:TIMESTAMP]
+CopyQ Warning [2026-02-21 23:34:32.599] <monitorClipboard-3919>: Aborting clipboard cloning: Data access took too long
+CopyQ Warning [2026-02-21 23:56:52.979] <monitorClipboard-3919>: Aborting clipboard cloning: Clipboard changed again
+CopyQ Warning [2026-02-22 02:50:03.479] <Server-3910>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ Warning [2026-02-22 02:50:03.480] <monitorClipboard-3919>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ Warning [2026-02-22 02:50:15.323] <Server-10754>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ Warning [2026-02-22 03:24:07.068] <monitorClipboard-13274>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ Warning [2026-02-22 03:24:07.068] <Server-10754>: [default] QtWarning: The X11 connection broke (error 1). Did the X11 server die?
+CopyQ Warning [2026-02-22 03:49:05.716] <Server-1704>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set
+CopyQ Warning [2026-02-22 03:55:27.565] <monitorClipboard-1740>: ELAPSED 5001 ms accessing [data:TIMESTAMP]
+CopyQ Warning [2026-02-22 03:55:27.569] <monitorClipboard-1740>: Aborting clipboard cloning: Data access took too long
+CopyQ Warning [2026-02-22 15:14:43.104] <Server-1706>: [default] QtWarning: QSystemTrayIcon::setVisible: No Icon set

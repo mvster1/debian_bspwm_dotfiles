@@ -1,0 +1,5 @@
+gtk-font-name=SF Pro Display 11
+
+# Cursor theme (managed by cursor-theme-set.sh)
+gtk-cursor-theme-name="macOS"
+gtk-cursor-theme-size=20

@@ -1,0 +1,84 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "3e0a6e0d2d2ce2574739be3aea53e35ca18c165a040d250ac98772094c3141bd",
+    "telemetry.devDeviceId": "f91a6220-4edb-4259-a0b3-955a4d7283dc",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/wrs/bag/development"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1771641829798"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/wrs/bag/development": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1771641829798": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/wrs/bag/development",
+            "backupPath": "/home/wrs/.config/Code/Backups/8865cad4dcfad39c3a5ee2ad1feaff80",
+            "uiState": {
+                "mode": 1,
+                "x": 5,
+                "y": 25,
+                "width": 1906,
+                "height": 1046,
+                "zoomLevel": -1
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs",
+    "themeBackground": "#ffffff",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs",
+        "colorInfo": {
+            "foreground": "#3b3b3b",
+            "background": "#ffffff",
+            "editorBackground": "#ffffff",
+            "titleBarBackground": "#f8f8f8",
+            "titleBarBorder": "#e5e5e5",
+            "activityBarBackground": "#f8f8f8",
+            "activityBarBorder": "#e5e5e5",
+            "sideBarBackground": "#f8f8f8",
+            "sideBarBorder": "#e5e5e5",
+            "statusBarBackground": "#f8f8f8",
+            "statusBarBorder": "#e5e5e5",
+            "statusBarNoFolderBackground": "#f8f8f8"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 42,
+            "activityBarWidth": 48,
+            "sideBarWidth": 265,
+            "auxiliaryBarWidth": 336,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 265,
+            "auxiliaryBarWidth": 336,
+            "workspaces": {
+                "56a6c3e76316b8dd57a545f4c1c20a9c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/wrs/Downloads/2026-02-18_02-16.png" added="2026-02-18T05:16:08.667321Z" modified="2026-02-18T05:16:42.711895Z" visited="2026-02-18T05:16:08.667322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-18T05:16:42.711892Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/wallpapers/sunbather.png" added="2026-02-18T19:36:19.038309Z" modified="2026-02-18T19:36:19.351632Z" visited="2026-02-18T19:36:19.038310Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-18T19:36:19.351629Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/Downloads/monero-gui-linux-x64-v0.18.4.5.tar.bz2" added="2026-02-20T21:43:59.312748Z" modified="2026-02-20T21:43:59.312753Z" visited="2026-02-20T21:43:59.312748Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip2-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-20T21:43:59.312750Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/Downloads/palemoon-34.0.1.linux-x86_64-gtk2.tar.xz" added="2026-02-20T22:29:01.042250Z" modified="2026-02-20T22:29:01.042254Z" visited="2026-02-20T22:29:01.042250Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-20T22:29:01.042252Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag" added="2026-02-20T23:15:38.312804Z" modified="2026-02-21T16:53:47.528004Z" visited="2026-02-20T23:15:38.312806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-20T23:15:38.312808Z" count="1"/>
+          <bookmark:application name="Nicotine+" exec="&apos;org.nicotine_plus.Nicotine %u&apos;" modified="2026-02-21T16:53:47.528000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/palemoon-34.0.1.linux-x86_64-gtk3.tar.xz" added="2026-02-20T23:16:10.746662Z" modified="2026-02-20T23:16:10.746669Z" visited="2026-02-20T23:16:10.746663Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-20T23:16:10.746666Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/wp10868801-deafheaven-wallpapers.jpg" added="2026-02-20T23:42:27.961935Z" modified="2026-02-20T23:42:27.961944Z" visited="2026-02-20T23:42:27.961936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-20T23:42:27.961939Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/wallpapers/sunbather.jpg" added="2026-02-20T23:42:48.860860Z" modified="2026-02-20T23:44:39.648443Z" visited="2026-02-20T23:42:48.860862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-20T23:44:39.648440Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/wallpapers/sunbather_wall_1_waifu2x_noise3_scale4x.png" added="2026-02-21T00:00:01.900270Z" modified="2026-02-21T00:00:02.294980Z" visited="2026-02-21T00:00:01.900271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T00:00:02.294971Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/code_1.109.5-1771531656_amd64.deb" added="2026-02-21T02:42:21.646868Z" modified="2026-02-21T02:42:21.646877Z" visited="2026-02-21T02:42:21.646869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T02:42:21.646871Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/development" added="2026-02-21T02:50:46.004175Z" modified="2026-02-21T02:50:46.004181Z" visited="2026-02-21T02:50:46.004176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2026-02-21T02:50:46.004178Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/stuff/macOS.tar.xz" added="2026-02-21T03:46:08.632478Z" modified="2026-02-21T03:46:09.515707Z" visited="2026-02-21T03:46:08.632478Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T03:46:09.515702Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/scripts/setcursor.sh" added="2026-02-21T04:34:58.186282Z" modified="2026-02-21T04:34:58.973419Z" visited="2026-02-21T04:34:58.186284Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T04:34:58.973417Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/wallpapers/white.png" added="2026-02-21T05:17:14.187848Z" modified="2026-02-21T05:17:14.590516Z" visited="2026-02-21T05:17:14.187850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T05:17:14.590508Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/stuff/stremio_4.4.168-1_amd64.deb" added="2026-02-21T05:25:26.109634Z" modified="2026-02-21T05:25:27.191227Z" visited="2026-02-21T05:25:26.109637Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T05:25:27.191224Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/wallpapers/tux_whitebg.png" added="2026-02-21T07:59:52.023731Z" modified="2026-02-21T16:48:11.508997Z" visited="2026-02-21T07:59:52.023732Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-3.0 %u&apos;" modified="2026-02-21T08:00:10.090581Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T16:48:11.508994Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/stuff/dataloader_v64.1.0.zip" added="2026-02-21T15:47:15.799782Z" modified="2026-02-21T15:47:16.142612Z" visited="2026-02-21T15:47:15.799784Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T15:47:16.142609Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/stuff/dataloader/dataloader.png" added="2026-02-21T15:53:39.115205Z" modified="2026-02-21T15:53:39.469498Z" visited="2026-02-21T15:53:39.115207Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T15:53:39.469486Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/stuff/sf-linux-x64.tar.xz" added="2026-02-21T15:59:54.649384Z" modified="2026-02-21T15:59:55.191347Z" visited="2026-02-21T15:59:54.649386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T15:59:55.191342Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/stuff/discord-0.0.125.deb" added="2026-02-21T16:38:29.648086Z" modified="2026-02-21T16:38:30.736353Z" visited="2026-02-21T16:38:29.648087Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T16:38:30.736350Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/stuff/audio/tux_whitebg.mp3" added="2026-02-21T16:48:58.176182Z" modified="2026-02-21T16:48:58.510224Z" visited="2026-02-21T16:48:58.176184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T16:48:58.510216Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/stuff/audio" added="2026-02-21T16:53:04.672962Z" modified="2026-02-22T06:56:12.310142Z" visited="2026-02-21T16:53:04.672962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Nicotine+" exec="&apos;org.nicotine_plus.Nicotine %u&apos;" modified="2026-02-22T06:56:12.310140Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/.zshrc" added="2026-02-21T17:56:41.624898Z" modified="2026-02-21T17:56:43.953978Z" visited="2026-02-21T17:56:41.624900Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-02-21T17:56:43.953973Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/stuff/text.txt" added="2026-02-21T18:01:50.516430Z" modified="2026-02-21T18:01:50.516437Z" visited="2026-02-21T18:01:50.516432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T18:01:50.516434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/text.pdf" added="2026-02-21T18:02:05.198280Z" modified="2026-02-21T18:02:05.198287Z" visited="2026-02-21T18:02:05.198282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-21T18:02:05.198284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_vboxShared/dotconfig" added="2026-02-22T06:54:29.887319Z" modified="2026-02-22T06:54:29.887322Z" visited="2026-02-22T06:54:29.887320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Nicotine+" exec="&apos;org.nicotine_plus.Nicotine %u&apos;" modified="2026-02-22T06:54:29.887321Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/applications/waterfox-6.6.8.tar.bz2" added="2026-02-22T07:05:08.920331Z" modified="2026-02-22T07:05:10.362865Z" visited="2026-02-22T07:05:08.920332Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip2-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-22T07:05:10.362862Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wrs/bag/stuff/org.webosbrew.appupdateblocker_1.0.0_all.ipk" added="2026-02-22T19:12:49.639290Z" modified="2026-02-22T19:12:49.979010Z" visited="2026-02-22T19:12:49.639291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-02-22T19:12:49.979005Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
